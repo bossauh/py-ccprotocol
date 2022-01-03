@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
     name="ccprotocol",
     packages=["ccprotocol"],
-    version="0.1",
+    version="0.2",
     license="MIT",
     description="A python implementation of the CC Protocol.",
     author="Philippe Mathew",
     author_email="philmattdev@gmail.com",
     url="https://github.com/bossauh/py-ccprotocol",
-    download_url="https://github.com/bossauh/py-ccprotocol/refs/tags/v_01.tar.gz",
+    download_url="https://github.com/bossauh/py-ccprotocol/archive/refs/tags/v_02.tar.gz",
     keywords=["utility", "api", "minecraft", "computer craft", "protocol"],
     install_requires=[
         "fluxhelper"
